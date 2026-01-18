@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap');
+
+*{ font-family: "Trade Winds", system-ui;
+}
+body{
+  background-color: black;
+}
+.box{
+  height: 200px;
+  width: 350px;
+  border: 7px solid rgb(0, 148, 158);
+  border-radius: 20px;
+  background-image: url(img.jpg);
+  background-size: cover;       
+  margin: 0 auto;
+  margin-top: 250px;
+  box-shadow: 0 6px 20px rgb(253, 253, 253);
+}
+.text h2{
+  color: aliceblue;
+  letter-spacing: 3px;
+  width: 250px;
+  margin: auto auto;
+  margin-top: 25px;
+}
+.text p{
+  color: bisque;
+  height: 50px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+
+
